@@ -22,8 +22,16 @@ I am a computational scientist with an MSc in Bioinformatics from Juniata Colleg
 ### 📫 Let's Connect
 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alana-annaman)
-
- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alana.bioinformatics)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alana.annamanthadoo@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/alana-annaman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@alana.bioinformatics">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok&logoColor=black" alt="TikTok" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:alana.annamanthadoo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail" alt="Email" height="40">
+  </a>
+</p>
