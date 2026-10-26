@@ -27,4 +27,4 @@ I am actively seeking **Bioinformatics Scientist** roles in infectious disease r
 
  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alana.bioinformatics)
 
-  **Email:** alana.annamanthadoo@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alana.annamanthadoo@gmail.com)
