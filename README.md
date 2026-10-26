@@ -21,17 +21,8 @@ I am a computational scientist with an MSc in Bioinformatics from Juniata Colleg
 
 ### 📫 Let's Connect
 
-
-I am actively seeking **Bioinformatics Scientist** roles in infectious disease research, public health, or pharma. 
-
-<p align="left">
-  <a href="https://linkedin.com/in/alana-annaman" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="45" style="margin-right: 20px;">
-  </a>
-  <a href="https://www.tiktok.com/@alana.bioinformatics" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" height="45" style="margin-right: 20px;">
-  </a>
-  <a href="mailto:alana.annamanthadoo@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="45">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alana-annaman)
+&nbsp;&nbsp;
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alana.bioinformatics)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alana.annamanthadoo@gmail.com)
