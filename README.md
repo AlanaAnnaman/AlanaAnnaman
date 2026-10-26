@@ -1,4 +1,4 @@
-# Hi, I'm Alana Annamanthadoo 👋
+# Hi, I'm Alana 👋
 
 ### 🧬 Bioinformatics Scientist | Pathogen Genomics & Single-Cell Transcriptomics
 
