@@ -21,7 +21,6 @@ I am a computational scientist with an MSc in Bioinformatics from Juniata Colleg
 
 ### 📫 Let's Connect
 
-I am actively seeking **Bioinformatics Scientist** roles in infectious disease research, public health, or pharma. 
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alana-annaman)
 
