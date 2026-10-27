@@ -15,7 +15,7 @@ I am a computational scientist with an MSc in Bioinformatics from Juniata Colleg
 **Languages:** Python, R, SQL, Bash, Linux  
 **Bioinformatics:** QIIME2, DADA2, Seurat, Scanpy, Kraken2, FastQC, VSEARCH, SILVA, VFDB  
 **Machine Learning:** scikit-learn, XGBoost, Pandas, NumPy, Random Forest  
-**Infrastructure:** Git/GitHub, Docker, Nextflow
+**Infrastructure:** Git/GitHub, 
 
 ---
 
